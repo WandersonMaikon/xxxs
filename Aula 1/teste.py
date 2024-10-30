@@ -1,1 +1,1 @@
-git pull origin main
+teste = int(input("Informe alguma coisa: "))
